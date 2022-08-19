@@ -1,4 +1,4 @@
-발생원인: node의 npm 폴더와 npm cahe폴더 데이터와 패키지 설치 데이터의 충돌
+# 발생원인: node의 npm 폴더와 npm cahe폴더 데이터와 패키지 설치 데이터의 충돌
 
 ## for window : 
 
