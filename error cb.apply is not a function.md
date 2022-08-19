@@ -1,4 +1,5 @@
 # 발생원인: node의 npm 폴더와 npm cahe폴더 데이터와 패키지 설치 데이터의 충돌
+# 해결방법: 캐쉬된 기존의 npm & npm cache 데이터를 삭제해주고 npm을 새로 설치해준다 
 
 ## for window : 
 
